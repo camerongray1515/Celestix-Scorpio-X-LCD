@@ -26,3 +26,8 @@ has been loaded in order to get the fan speed.
 ## Init Script
 An init script is provided in init.d/lcd for running the LCD script as a
 system service.
+
+## Disclaimer
+This was thrown together fairly quickly in an afternoon - I make no claims that
+this is reliable or efficient but it does the job.  There are also possibly some
+strange multithreading related bugs that I haven't noticed yet.
